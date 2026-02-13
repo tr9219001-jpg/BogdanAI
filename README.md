@@ -125,3 +125,7 @@ The wizard handles everything:
 | [Auto-Merge](docs/AUTO_MERGE.md) | Auto-merge controls, ALLOWED_PATHS configuration |
 | [How to Use Pi](docs/HOW_TO_USE_PI.md) | Guide to the Pi coding agent |
 | [Security](docs/SECURITY_TODO.md) | Security hardening plan |
+
+---
+
+bot works.
