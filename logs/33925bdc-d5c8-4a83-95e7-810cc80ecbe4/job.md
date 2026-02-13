@@ -1,0 +1,1 @@
+Create a job to add a line to README saying: bot works.
